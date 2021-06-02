@@ -1,5 +1,7 @@
 # :teddy_bear: A playground library to get your hands on polynomials with integer coefficients modulo prime numbers
 
+[![codecov](https://codecov.io/gh/zinedine-zeitnot/polyprime/branch/main/graph/badge.svg?token=UPKNOF2OOF)](https://codecov.io/gh/zinedine-zeitnot/polyprime)
+
 Instantiate polynomials either by specifying their coefficients as a list:
 
 ```py
